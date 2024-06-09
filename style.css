@@ -1,0 +1,15 @@
+#my-table{
+    width: 50%;
+}
+
+.button-container{
+    width: 50%;
+}
+
+.not-display-element{
+    display: none;
+}
+
+.total-price {
+    display: none;
+}
